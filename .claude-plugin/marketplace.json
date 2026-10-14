@@ -1,0 +1,6 @@
+{
+  "name": "context-band",
+  "description": "context-band: a Claude Code band showing the context window by category and the 5h and weekly quotas",
+  "owner": { "name": "flv12" },
+  "plugins": [{ "name": "context-band", "source": "./" }]
+}

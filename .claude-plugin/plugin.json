@@ -1,0 +1,7 @@
+{
+  "name": "context-band",
+  "version": "0.1.0",
+  "description": "Band above the prompt: context window by category plus the 5h and weekly quotas, live, toggled by /band",
+  "author": { "name": "flv12" },
+  "types": "./types/index.d.ts"
+}
